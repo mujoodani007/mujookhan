@@ -49,9 +49,9 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•MUJOO KHAN------•◈•
+|__\~~) •||•MUJOO KHAN---------------•◈•
+|__(-----\  •◈•------MUJOO KING--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMUJOO KHAN
+\033[1;96mInstagram \033[1;93m: \033[1;92mMUJOO.KHAN007
+\033[1;96mFacebook  \033[1;93m: \033[1;92m MUJOOKHAN
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MujooKhan007/King
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "mujoo"
+CorrectPassword = "mujoo"
 
 loop = 'true'
 while (loop == 'true'):
@@ -119,7 +119,7 @@ def login():
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
 		try:
-			br.open('https://m.facebook.com')
+			br.open('https://m.facebook.com/itz.MuJoo007)
 		except mechanize.URLError:
 			print"\n\033[1;96m[!] \x1b[1;91mThere is no internet connection"
 			keluar()
